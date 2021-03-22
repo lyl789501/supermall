@@ -11,6 +11,7 @@
 <script>
 export default {
     props:{
+        name: "TabControl",
         titles:{
             type:Array,
             default(){
